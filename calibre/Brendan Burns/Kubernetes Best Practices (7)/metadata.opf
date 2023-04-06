@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e021dfd4-21e5-44d8-ad5c-e364299c956f</dc:identifier>
+        <dc:title>Kubernetes Best Practices</dc:title>
+        <dc:creator opf:file-as="Burns, Brendan" opf:role="aut">Brendan Burns</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;In this practical guide, four Kubernetes professionals with deep experience in distributed systems, enterprise application development, and open source will guide you through the process of building applications with this container orchestration system. Based on the experiences of companies that are running Kubernetes in production successfully, many of the methods are also backed by concrete code examples.&lt;/p&gt;&lt;p&gt;This book is ideal for those already familiar with basic Kubernetes concepts who want to learn common best practices. You'll learn exactly what you need to know to build your best app with Kubernetes the first time.&lt;/p&gt;&lt;li&gt;Set up and develop applications in Kubernetes&lt;/li&gt;&lt;li&gt;Learn patterns for monitoring, securing your systems, and managing upgrades, rollouts, and rollbacks&lt;/li&gt;&lt;li&gt;Understand Kubernetes networking policies and where service mesh fits in&lt;/li&gt;&lt;li&gt;Integrate services and legacy applications and develop higher-level platforms on top of...</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brendan Burns&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-04T01:58:05.112593+00:00"/>
+        <meta name="calibre:title_sort" content="Kubernetes Best Practices"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>

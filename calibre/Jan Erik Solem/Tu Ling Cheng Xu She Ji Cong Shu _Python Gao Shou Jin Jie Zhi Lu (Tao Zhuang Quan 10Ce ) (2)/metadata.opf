@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c17712ed-fab6-41e4-9710-999124d10552</dc:identifier>
+        <dc:title>图灵程序设计丛书：Python 高手进阶之路（套装全10册）</dc:title>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">Jan Erik Solem</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">萨卡尔</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">卢布诺维克</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">Robert Layton</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">埃里克·马瑟斯</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">赫曼塔·库玛·梅赫塔</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">BePROUD股份有限公司</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">杰奎琳·凯泽尔</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">凯瑟琳·贾缪尔</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">普拉提克·乔西</dc:creator>
+        <dc:creator opf:file-as="Solem, Jan Erik &amp; 萨卡尔 &amp; 卢布诺维克 &amp; Layton, Robert &amp; 埃里克·马瑟斯 &amp; 赫曼塔·库玛·梅赫塔 &amp; BePROUD股份有限公司 &amp; 杰奎琳·凯泽尔 &amp; 凯瑟琳·贾缪尔 &amp; 普拉提克·乔西 &amp; 哈利·帕西瓦尔" opf:role="aut">哈利·帕西瓦尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.14.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>人民邮电出版社有限公司</dc:publisher>
+        <dc:language>zho</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jan Erik Solem&quot;: &quot;&quot;, &quot;萨卡尔&quot;: &quot;&quot;, &quot;卢布诺维克&quot;: &quot;&quot;, &quot;Robert Layton&quot;: &quot;&quot;, &quot;埃里克·马瑟斯&quot;: &quot;&quot;, &quot;赫曼塔·库玛·梅赫塔&quot;: &quot;&quot;, &quot;BePROUD股份有限公司&quot;: &quot;&quot;, &quot;杰奎琳·凯泽尔&quot;: &quot;&quot;, &quot;凯瑟琳·贾缪尔&quot;: &quot;&quot;, &quot;普拉提克·乔西&quot;: &quot;&quot;, &quot;哈利·帕西瓦尔&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-04-04T01:58:04.887990+00:00"/>
+        <meta name="calibre:title_sort" content="图灵程序设计丛书：Python 高手进阶之路（套装全10册）"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="封面" href="cover.jpg"/>
+    </guide>
+</package>
